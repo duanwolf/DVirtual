@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.dvirtual.PrintTextView
+
+    style="@style/TextCom"
+    text="杜老大" />

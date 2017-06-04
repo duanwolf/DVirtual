@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cum_size">20sp</dimen>
+    <dimen name="horizontal_ma">30dp</dimen>
+    <dimen name="vertical_pad">10dp</dimen>
+    <dimen name="vertical_ma">10dp</dimen>
+</resources>
